@@ -1,2 +1,3 @@
 # Final_Project_Law_Kimberly
-Final Project
+
+LakeData.csv: Comma delimited CSV file which is the data worked on. Rows had to be deleted to enable upload to Github. 
